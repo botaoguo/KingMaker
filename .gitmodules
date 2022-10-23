@@ -12,3 +12,12 @@
 [submodule "KingMaker"]
 	path = KingMaker
 	url = git@github.com:zhiyuanlcern/KingMaker.git
+[submodule "law"]
+	path = law
+	url = git@github.com:riga/law.git
+[submodule "sample_database"]
+	path = sample_database
+	url = git@github.com:KIT-CMS/KingMaker_sample_database.git
+[submodule "sm-htt-analysis"]
+	path = sm-htt-analysis
+	url = git@github.com:tvoigtlaender/sm-htt-analysis.git
